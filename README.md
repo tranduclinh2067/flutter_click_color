@@ -1,3 +1,3 @@
 # flutter_change_color
 
-![](assets/README.png)
+![](assets/readme.png)
